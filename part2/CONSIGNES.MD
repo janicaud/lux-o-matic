@@ -1,4 +1,4 @@
-# Etape 1 : Le temps en informatique
+# Etape 2 : Le temps en informatique
 
 # Définitions
 
