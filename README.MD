@@ -7,11 +7,11 @@ GitHub est un outil en ligne incroyable qui vous permettra de stocker, partager 
 Avec GitHub, vous pouvez :
 * Stocker votre code en toute sécurité
 * Partager votre code avec d'autres personnes
-* Collaboration en temps réel sur des projets avec d'autres personnes
+* Collaborer en temps réel sur des projets avec d'autres personnes
 * Utiliser des outils de suivi des bugs et des demandes de fonctionnalités
 * Utiliser des outils de gestion de versions pour suivre les modifications apportées à votre code
 
-Nous sommes ravis de vous aider à utiliser GitHub pour vos projets et nous espérons que vous apprécierez cet outil aussi beaucoup que nous.
+Nous sommes ravis de vous aider à utiliser GitHub pour vos projets et nous espérons que vous apprécierez cet outil autant que nous.
 
 Bonne chance !
 
