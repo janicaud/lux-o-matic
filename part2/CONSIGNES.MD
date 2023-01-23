@@ -2,6 +2,7 @@
 
 # Définitions
 
+![Arduino](https://images.unsplash.com/photo-1495364141860-b0d03eccd065?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1752&q=80)
 Un timestamp en informatique est un marqueur de temps qui indique à quel moment un événement a eu lieu par rapport au 1er janvier 1970. Il est généralement utilisé pour enregistrer la date et l'heure d'un événement, comme la création ou la modification d'un fichier ou d'un message.
 
 Les timestamps sont souvent utilisés pour maintenir l'ordre chronologique des événements dans un système informatique. Par exemple, lorsque vous enregistrez des messages dans un forum, les messages sont généralement affichés dans l'ordre dans lequel ils ont été postés, et cela est possible grâce à l'utilisation de timestamps.
