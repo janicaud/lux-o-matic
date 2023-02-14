@@ -13,4 +13,6 @@ Vous découvrerez ainsi plusieurs choses :
 Pour ce stage, vous aurez besoin :
 * Un ordinateur avec un navigateur Internet
 * Le logiciel **Arduino**[https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.3_Windows_64bit.msi]
+* Extension **Adafruit GFX Library**[https://github.com/adafruit/Adafruit-GFX-Library]
+* Extension **Adafruit Neomatrix**[https://github.com/adafruit/Adafruit_NeoMatrix]
 * Une matrice de LED 8*32 de type WS2812B
