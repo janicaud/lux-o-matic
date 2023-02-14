@@ -12,5 +12,5 @@ Vous découvrerez ainsi plusieurs choses :
 
 Pour ce stage, vous aurez besoin :
 * Un ordinateur avec un navigateur Internet
-* Le logiciel **Arduino**[https://www.arduino.cc/en/donate/]
+* Le logiciel **Arduino**[https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.3_Windows_64bit.msi]
 * Une matrice de LED 8*32 de type WS2812B
