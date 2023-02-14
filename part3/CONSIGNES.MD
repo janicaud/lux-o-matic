@@ -1,7 +1,5 @@
 # Etape 3 : Et la lumière fut !
-Nous avons deux objectifs ici :
 * Programmer une première fois notre Arduino
-* Modifier le code pour changer la couleur et la position du pixel
 
 ## A : Configuration des bibliothèques de l'IDE Arduino
 Si l'IDE Arduino a été bien installé, vous devriez pouvoir accéder à cette interface, puis installer les deux bibliothèques que nous allons utilisées.
@@ -28,4 +26,23 @@ Il faut sélectionner le Board Manager (icône sur le côté), puis rechercher E
 ![alt text](img/4.PNG)
 
 * Décompresser l'archive dans un dossier
-* Depuis l'IDE Arduino, ouvrir le dossier (File > Open) puis sélectionner 
+* Depuis l'IDE Arduino, ouvrir le dossier (File > Open) puis sélectionner shinealight.ino
+
+Vous devriez arriver ici :<br />
+![alt text](img/5.PNG)
+
+* Selectionner la carte et le port
+![alt text](img/6.PNG)
+
+* Brancher le port USB
+* Rechercher NodeMCU-32S et le port USB
+![alt text](img/7.PNG)
+* Appuyer sur **upload**
+![alt text](img/8.PNG)
+* A l'apparition de **Connection....**, presser le bouton **100** sur la carte à droite du port USB
+![alt text](img/9.PNG)
+* L'IDE doit vous afficher ce résultat à la fin
+![alt text](img/10.PNG)
+
+Et vous devriez pouvoir profiter d'un petit pixel rouge qui se balade sur l'afficheur LED. Félications !
+

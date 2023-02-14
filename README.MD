@@ -15,4 +15,9 @@ Nous sommes ravis de vous aider à utiliser GitHub pour vos projets et nous esp�
 
 Bonne chance !
 
+
+## Docs
+* Aranacorp [https://www.aranacorp.com/fr/programmer-un-nodemcu-esp32-avec-lide-arduino/]
+* teachmemicro [https://www.teachmemicro.com/using-esp32-for-the-first-time/]
+
 💖 from *Dave Team*
