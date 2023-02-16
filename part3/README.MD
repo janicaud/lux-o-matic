@@ -43,7 +43,8 @@ Vous devriez arriver ici :<br />
 * Selectionner la carte et le port
 ![alt text](img/6.PNG)
 
-* Brancher le port USB
+* Brancher le port USB et installer le pilote si possible :<br />
+[Pilote](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 * Rechercher NodeMCU-32S et le port USB
 ![alt text](img/7.PNG)
 * Appuyer sur **upload**
