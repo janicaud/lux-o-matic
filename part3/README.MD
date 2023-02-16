@@ -18,9 +18,9 @@ En cliquant sur les boutons installation.
 
 ## B : Configuration de la carte électronique dans l'IDE Arduino
 Avant de sélectionner la board, il est nécessaire d'ajouter le site vers lequel le logiciel pourrait récupérer les informations.
-Il faut ouvrir les préférences :
+Il faut ouvrir les préférences :<br />
 ![alt text](img/3a.PNG)
-Puis ajouter cela:
+Puis ajouter cela:<br />
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json,https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
