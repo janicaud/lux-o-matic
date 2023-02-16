@@ -5,3 +5,5 @@ Dans cette étape, votre but est de pouvoir afficher un texte, mais aussi et sur
 Quelques pistes :
 * [Tuto](https://wiki.mchobby.be/index.php?title=Tutoriel_Librairie_Adafruit_GFX)
 * [Tuto](https://passionelectronique.fr/ecran-oled-i2c-arduino/)
+* [Wifi](https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/)
+* [NTP](https://github.com/arduino-libraries/NTPClient)
