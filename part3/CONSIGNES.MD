@@ -1,5 +1,6 @@
 # Etape 3 : Et la lumière fut !
 * Programmer une première fois notre Arduino
+* Modifier le programme
 
 ## A : Configuration des bibliothèques de l'IDE Arduino
 Si l'IDE Arduino a été bien installé, vous devriez pouvoir accéder à cette interface, puis installer les deux bibliothèques que nous allons utilisées.
@@ -46,3 +47,8 @@ Vous devriez arriver ici :<br />
 
 Et vous devriez pouvoir profiter d'un petit pixel rouge qui se balade sur l'afficheur LED. Félications !
 
+## D : Changement de couleur
+Dernière étape : il faut maintenant que vous trouviez un moyen pour changer la couleur de rouge en vert. Un indice
+```C
+  matrix.drawPixel(column,line++,matrix.Color(255, 0, 0));
+```
